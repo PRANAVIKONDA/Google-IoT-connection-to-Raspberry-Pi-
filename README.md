@@ -1,5 +1,6 @@
-GOOGLE IOT CORE TO STREAM HEART RATE DATA                    using RASPBERRY PI 
+GOOGLE IOT CORE TO STREAM HEART RATE DATA  using RASPBERRY PI 
 
+INTRODUCTION 
 
                            Internet of things , or IoT refers to a millions of physical devices around the world that are now connected to internet connecting and sharing data. Anyways there are a few basic requirements such as security maintenance , handling the data ingestion requirements of many distributed devices remain as significant challenges. Google Cloud's IoT Core addresses simplifies these tasks which makes it easier to focus on gaining value and insight from an IoT project. In this project we are going to build a  Raspberry Pi with a heart rate sensor and several components of cloud platform are also used to form the pipeline.
 
